@@ -1,0 +1,10 @@
+Ders 1
+Ders 2
+Ders 3
+Ders 4
+Ders 5
+Ders 6
+Seçmeli Ders 1
+Seçmeli Ders 2
+Seçmeli Ders 3
+Seçmeli Ders 4
